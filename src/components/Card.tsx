@@ -3,7 +3,6 @@ import React, { FC, PropsWithChildren, useState } from "react";
 export enum cardBorder {
   border = "border",
   light = "light",
-  none = "none",
 }
 
 interface cardProps {
